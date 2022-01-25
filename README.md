@@ -18,6 +18,7 @@ In this project, you will apply what you have learned about designing with your 
 - Provide proof of concept Dashboard that satisfies requirements of management by providing an easily accessible, neat and intuitive way to display their data.
 
 [Project 2 Tableau Dashboard Link(Tableau Public)](https://public.tableau.com/app/profile/sayed.saidoo/viz/StoreAnalysis_P2/SalesRocketAnalysis?publish=yes)
+-Please view Dashboard in Full Screen Mode.
 
 ### Project 3 - Sales Rocket Final Dashboard
 
@@ -29,5 +30,6 @@ The first tactical dashboard for Sales_Rocket was a hit. Now the full executive 
 Provide production ready interactive Dashboard that meets all requirements of the Executive team.
 
 [Project 3 Tableau Dashboard Link(Tableau Public)](https://public.tableau.com/app/profile/sayed.saidoo/viz/P3_SalesRock_Sayed/FinalDashboard?publish=yes)
+-Please view Dashboard in Full Screen Mode.
 
 
