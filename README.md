@@ -3,7 +3,7 @@
 - This folder contains two Tableau Projects created for the Udacity Data Visualization NanoDegree
 - The ReadMe file contains the **Tableau Public Dashboard links** under each project description. These links are not clickable in the Project PDFs provided.
 
-### Project 2 - Sales Rocket Proof of Concept Dashboard
+### Project 2 - Sales Rocket Initial Proof of Concept Dashboard
 
 
 #### Project Introduction
