@@ -1,8 +1,11 @@
 # Udacity_Tableau_Projects
 
 - This folder contains two Tableau Projects created for the Udacity Data Visualization NanoDegree
+- The ReadMe file contains the **Tableau Public Dashboard links** under each project description. These links are not clickable in the Project PDFs provided.
 
 ### Project 2 Sales Rocket Proof of Concept
+
+
 #### Project Introduction
 A startup called Sales_Rocket wants to analyze the data they've been collecting on their sales across the nation. Management has a few questions they’d like easy access to. Currently, they answer these questions through spreadsheets scattered about and a variety of different tools. Unfortunately, none of the spreadsheets and tools neatly combine all their answers into one.
 They would like a dashboard designer to go through each question and try to come up with a way to display their data in a way that is neat and intuitive, even for the less data-savvy among them.
@@ -14,6 +17,8 @@ In this project, you will apply what you have learned about designing with your 
 - Initial Sketches and Wireframes before creating the Dashboard for the client
 - Provide proof of concept Dashboard that satisfies requirements of management by providing an easily accessible, neat and intuitive way to display their data.
 
+[Project 2 Tableau Dashboard Link(Tableau Public)](https://public.tableau.com/app/profile/sayed.saidoo/viz/StoreAnalysis_P2/SalesRocketAnalysis?publish=yes)
+
 ### Project 3 Sales Rocket Final Dashboard
 
 #### Project Introduction
@@ -22,5 +27,7 @@ The first tactical dashboard for Sales_Rocket was a hit. Now the full executive 
 
 #### Project Deliverable
 Provide production ready interactive Dashboard that meets all requirements of the Executive team.
+
+[Project 3 Tableau Dashboard Link(Tableau Public)](https://public.tableau.com/app/profile/sayed.saidoo/viz/P3_SalesRock_Sayed/FinalDashboard?publish=yes)
 
 
